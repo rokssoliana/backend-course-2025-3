@@ -1,0 +1,27 @@
+[
+  {
+    "price": 13300000,
+    "area": 7420,
+    "furnishingstatus": "furnished"
+  },
+  {
+    "price": 12250000,
+    "area": 8960,
+    "furnishingstatus": "unfurnished"
+  },
+  {
+    "price": 9800000,
+    "area": 6100,
+    "furnishingstatus": "furnished"
+  },
+  {
+    "price": 8700000,
+    "area": 5300,
+    "furnishingstatus": "semi-furnished"
+  },
+  {
+    "price": 7500000,
+    "area": 4200,
+    "furnishingstatus": "furnished"
+  }
+]
